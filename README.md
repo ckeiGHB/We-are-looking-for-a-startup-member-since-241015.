@@ -1,9 +1,9 @@
-# We-are-looking-for-a-startup-member-since-241015.
+# We-are-looking-for-a-startup-member
 We are looking for a startup member.
 1)	engineers: smart contract system development
 2)	web marketing: analysis and technical application within the platform
 
-My business idea is to create a new virtual market on a web platform for scientific business, and I am preparing for applying it to the winter of YC2025. 
+My business idea is to create a new virtual market on a web platform for scientific business. 
 It has reached PSF (problem solution fit) through providing questionnaire surveys and interview surveys from target users.
 
 Short term business plan:
